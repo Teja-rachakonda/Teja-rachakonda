@@ -9,10 +9,10 @@ I’m a passionate learner in the fields of Machine Learning, Natural Language P
 📈 Interested in stock market analysis and data-driven investment strategies.
  
 
-🎯 Career Goals:-
+🎯 Career Goals🧠:-
 
-🧠 To become a skilled AI Engineer and build innovative solutions.
-💼 Open to internship opportunities where I can contribute and learn new technologies hands-on.
+To become a skilled AI Engineer and build innovative solutions.
+Open to internship opportunities where I can contribute and learn new technologies hands-on.
  
 
 📫 How to Reach Me:-
@@ -24,7 +24,13 @@ LinkedIn: My LinkedIn Profile:- https://www.linkedin.com/in/teja-rachakonda/
 ⚙️ Skills:-
 
 Leetcode:- https://leetcode.com/u/Teja19060/
-Programming Languages: Python,DSA,Ml,NLP,DL
-Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn
-Tools: Git, GitHub, VS Code
+
+Programming Languages:-
+Python,DSA,Ml,NLP,DL
+
+
+Libraries & Frameworks:- TensorFlow, PyTorch, Scikit-learn
+
+
+Tools:- Git, GitHub, VS Code
 
