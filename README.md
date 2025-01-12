@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Teja-rachakonda/Teja-rachakonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate learner in the fields of Machine Learning, Natural Language Processing (NLP), Deep Learning, and Artificial intelligence (AI). I’m a B.Tech student specializing in Computer Science with (Machine Learning and Artificial Intelligence).  
 
-Here are some ideas to get you started:
+🌱 Learning Journey
+📊 Exploring data science and ML algorithms to tackle real-world problems.
+💬 Working on projects related to NLP and ML.
+📈 Interested in stock market analysis and data-driven investment strategies.
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Career Goals
+🧠 To become a skilled AI Engineer and build innovative solutions.
+💼 Open to internship opportunities where I can contribute and learn new technologies hands-on.
+ 
+
+📫 How to Reach Me
+Email: My Email Id:- teja.rachakonda9390@gmail.com
+LinkedIn: My LinkedIn Profile:- https://www.linkedin.com/in/teja-rachakonda/
+
+
+⚙️ Skills
+Leetcode:- https://leetcode.com/u/Teja19060/
+Programming Languages: Python,DSA,Ml,NLP,DL
+Libraries & Frameworks: TensorFlow, PyTorch, Scikit-learn
+Tools: Git, GitHub, VS Code
+
