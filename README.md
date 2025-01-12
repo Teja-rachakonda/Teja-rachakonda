@@ -28,7 +28,7 @@ LinkedIn: My LinkedIn Profile:- https://www.linkedin.com/in/teja-rachakonda/
 Leetcode:- https://leetcode.com/u/Teja19060/
 
 Programming Languages:-
-Python,DSA,Ml,NLP,DL
+Python, DSA, Ml, NLP, DL
 
 
 Libraries & Frameworks:- TensorFlow, PyTorch, Scikit-learn
