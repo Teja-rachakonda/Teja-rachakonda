@@ -18,6 +18,8 @@ Open to internship opportunities where I can contribute and learn new technologi
 📫 How to Reach Me:-
 
 Email: My Email Id:- teja.rachakonda9390@gmail.com
+
+
 LinkedIn: My LinkedIn Profile:- https://www.linkedin.com/in/teja-rachakonda/
 
 
