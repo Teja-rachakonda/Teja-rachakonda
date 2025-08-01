@@ -55,7 +55,7 @@ I am a recent B.Tech graduate and AI Engineer specializing in building intellige
 
 ---
 
-## 📊 GitHub Stats
+
 
 ## 📊 GitHub Stats
 
