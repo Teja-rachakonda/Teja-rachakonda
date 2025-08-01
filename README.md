@@ -1,4 +1,4 @@
-# Teja Rachakonda | AI Engineer
+# Teja Rachakonda | Gen AI Engineer
 
 <a href="https://www.linkedin.com/in/teja-rachakonda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:teja.rachakonda9390@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
