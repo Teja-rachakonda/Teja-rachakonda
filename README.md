@@ -57,8 +57,10 @@ I am a recent B.Tech graduate and AI Engineer specializing in building intellige
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical" alt="Teja's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Teja-rachakonda&show_icons=true&theme=radical" alt="Teja's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-rachakonda&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
